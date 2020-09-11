@@ -1,0 +1,25 @@
+{
+  "name": "nfjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitalisKonrad/needForJS_site.git"
+  },
+  "author": "KonradDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitalisKonrad/needForJS_site/issues"
+  },
+  "homepage": "https://github.com/VitalisKonrad/needForJS_site#readme",
+  "devDependencies": {
+    "electron": "^10.1.1",
+    "electron-packager": "^15.1.0",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
